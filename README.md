@@ -1,2 +1,29 @@
-# FUTURE_DS_01
-This project analyzes sales data to identify trends, top products, and regional performance. Data was cleaned and visualized using Python. Insights revealed key revenue drivers and profit patterns, helping provide recommendations for improving business growth and decision-making.
+# Business Sales Analysis (Beginner Project)
+
+## 📊 Overview
+
+This project analyzes a retail dataset to understand sales trends, top products, and business performance.
+
+## 🛠 Tools Used
+
+* Python
+* Pandas
+* Matplotlib
+
+## 🔍 What I Did
+
+* Cleaned raw data
+* Analyzed sales trends
+* Identified top products
+* Compared regions and categories
+* Created visual charts
+
+## 📈 Results
+
+* Sales trends identified over time
+* Top products contribute most revenue
+* Region and category performance analyzed
+
+## 🚀 Conclusion
+
+This project shows how data can help businesses make better decisions.
